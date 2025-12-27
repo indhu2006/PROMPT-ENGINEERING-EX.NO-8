@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date :17/12/2025
+# Reg. No. 25007487
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -53,3 +53,16 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+1. Basic prompt : Cinderella wearing a shoes
+# output:
+   <img width="1024" height="1024" alt="Gemini_Generated_Image_ujiow0ujiow0ujio" src="https://github.com/user-attachments/assets/29f3cc4c-0eb9-42ed-9176-087478d7ee90" />
+2. 1st generative AI image: Cinderella's boy friend gifting a pair shoes
+# output:
+   <img width="1024" height="1024" alt="Gemini_Generated_Image_gpw7pigpw7pigpw7" src="https://github.com/user-attachments/assets/7924441f-ce18-4b18-8042-99962c99edbc" />
+3. 2nd generative AI image: Cinderella's boy friend  wearing a gifted shoes in her feet
+# output : 
+  <img width="1024" height="1024" alt="Gemini_Generated_Image_kf3wxskf3wxskf3w" src="https://github.com/user-attachments/assets/cbaa7ea7-542a-49cd-8cf8-aa62d0c8f0b6" />
+
+    
+   
+
